@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+
+
+body.home {
+    color: #ffffff;
+    background-image: url(../Images/The_Witcher_2_A_Path_in_the_Forest.png);
+    background-size: 1280px;
+}
+body.options4 {
+    background-image: url(../Images/eaa81b9fd741e0e73d2910abde1782d1.jpg);
+    background-size: 1280px;
+}
+body.options3 {
+    background-image: url(../Images/97306.jpg);
+    background-size: 1280px;
+}
+body.options2 {
+    background-image: url(../Images/rjQceZ.jpg);
+    background-size: 1280px;
+}
+body.dead {
+    background-image: url(../Images/The_Witcher_2_A_Path_in_the_ForestDEAD.png);
+    text-transform: uppercase;
+    background-size: 1280px;
+}
+body.options5{
+     background-image: url(../Images/97306.jpg);
+    background-size: 1280px;
+}
+body.options6 {
+    background-image: url(../Images/skyrim-grass-mod-3.png);
+    background-size: 1280px;
+}
+body.options7 {
+    background-image: url(../Images/The-Elder-Scrolls-V-Skyrim-Special-Edition-6.jpg);
+    background-size: 1280px;
+}
+body.options8 {
+    background-image: url(../Images/red.png);
+    background-size: 1280px;
+}
+body.options9 {
+    background-image: url(../Images/blue.png);
+    background-size: 1280px;
+}
+body.options10 {
+    background-image: url(../Images/MV5BODk1YmZkMmQtNmVjMy00NTcxLWI3NzgtNmNmYWU0MGI1OGZiXkEyXkFqcGdeQXVyMzE2MzQyMDE@._V1_.jpg);
+    background-size: 1280px;
+}
+body.options11 {
+    background-image: url(../Images/Moss_Mother_Cavern.png);
+    background-size: 1280px;
+}
+body.options12 {
+    background-image: url(../Images/UGeCz2g.jpg);
+    background-size: 1280px;
+}
+body.options13 {
+    background-image: url(../Images/sleep.png);
+    background-size: 1280px;
+}
+body.win {
+    background-image: url(../Images/Untitled-1.png);
+    background-size: 1280px;
+}
+
+h1 {
+    font-family: 'Freckle Face', cursive;
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    letter-spacing: 5px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+h1 {
+    font-family: 'Freckle Face', cursive;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    letter-spacing: 5px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+h1.d {
+    color: #b01b13;
+}
+
+p {
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 1px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: #1c7343;
+    width: 500px;
+    padding: 10px;
+    border-radius: 5px;
+
+
+}
+
+p.d {
+    color: #ffffff;
+    background-color: transparent;
+}
+body.options4 {
+    text-align: center;
+    margin-top: 100px;
+    color: #ffffff;
+}
+body.options3 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options2 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options6 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options7 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options5 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options10 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options11 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.options12 {
+    text-align: center;
+    margin-top: 400px;
+    color: #ffffff;
+}
+body.win {
+    text-align: center;
+    color: #ffffff;
+}
+p.continue {
+    margin-top: 400px;
+}
+p.continue2 {
+    margin-top: 200px;
+}
+div.group {
+
+    margin-top: 50px;
+    justify-content: center;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px 5em;
+
+
+}
+
+div.uno {
+    background-color: #bf9319;
+}
+
+div.dos {
+    background-color: #bf9319;
+}
+
+div.tres {
+    background-color: #bf9319;
+}
+
+div.group2 {
+
+    margin-top: 50px;
+    justify-content: center;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px 5em;
+
+
+}
+
+
+
+div.uno:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+}
+
+div.uno:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+    text-decoration: none;
+    color: white;
+
+}
+
+div.dos:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+    text-decoration: none;
+    color: white;
+}
+
+div.tres:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+    text-decoration: none;
+    color: white;
+}
+
+div {
+
+    font-family: 'Acme', sans-serif;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+div.next {
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #bf9319;
+}
+
+div.dead {
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    color: #000000;
+    background-color: #b01b13;
+
+
+}
+
+div a {
+    color: #ffffff;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ffd230;
+}
+
+a.d:hover {
+    text-decoration: none;
+    color: #6b0b05;
+}
+
+a.d {
+    color: #000000;
+}
+
+div.next:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+    color: #ffffff;
+}
+
+div.dead:hover {
+    transform: scale(1.1);
+    transition: all 100ms ease-in;
+
+}
